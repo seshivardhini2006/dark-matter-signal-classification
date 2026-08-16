@@ -7,7 +7,7 @@ statistical reasoning as it shows up in AI alignment evaluation design.
 ## Background
 
 This project follows on from my earlier paper, [*"Detecting Dark Matter: Exploring WIMP
-Interactions and Background Noise Mitigation in the LUX-ZEPLIN Experiment"*](#), which analyzed
+Interactions and Background Noise Mitigation in the LUX-ZEPLIN Experiment"*](https://doi.org/10.58445/rars.1963), which analyzed
 how the LUX-ZEPLIN (LZ) dark matter detector distinguishes candidate WIMP interactions (**nuclear
 recoils**) from background events (**electronic recoils**) using two correlated signals:
 scintillation light (S1) and ionization (S2).
